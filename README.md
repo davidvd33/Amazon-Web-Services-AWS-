@@ -14,7 +14,7 @@
 -AWS se ha convirtió en un lugar donde las empresas pueden construir, almacenar y ejecutar sus aplicaciones en internet sin tener que preocuparse mucho por la parte técnica. Es como alquilar espacio en un taller de bricolaje digital, y ha cambiado completamente la forma en que las empresas hacen negocios en línea. AWS es tan grande que se ha convertido en uno de los líderes mundiales en servicios en la nube.
 
 
-| **Ventajas** | **Desventajas** |
+| ✔️**Ventajas**✔️ | ❌**Desventajas**❌ |
 |:----------:|:-----------:|
 | Escalabilidad | Costos impredecibles |
 | Variedad de servicio | Curva de aprendizaje |
