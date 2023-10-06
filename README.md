@@ -9,4 +9,4 @@
 
 -Entonces, AWS se convirtió en un lugar donde las empresas pueden construir, almacenar y ejecutar sus aplicaciones en internet sin tener que preocuparse mucho por la parte técnica. Es como alquilar espacio en un taller de bricolaje digital, y ha cambiado completamente la forma en que las empresas hacen negocios en línea. AWS es tan grande que se ha convertido en uno de los líderes mundiales en servicios en la nube.
 
-| [CrearCuenta] (https://portal.aws.amazon.com/billing/signup?refid=em_127222&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation&language=es_es#/start/email) |
+| [CrearCuenta](https://portal.aws.amazon.com/billing/signup?refid=em_127222&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation&language=es_es#/start/email) |
