@@ -1,5 +1,5 @@
 # Amazon-Web-Services-AWS
-![AmazonLogo](https://github.com/davidvd33/Amazon-Web-Services-AWS-/commit/387e6b269008fffeb2619481d778a7837ee55ca4 "AmazonLogo")
+![AmazonLogo](https://github.com/davidvd33/Amazon-Web-Services-AWS-/blob/main/amazon_tile_logo_icon_170594.png "AmazonLogo")
 
 Amazon lanzó algo llamado Amazon Web Services, que son como un conjunto de herramientas para los creadores y desarrolladores. Al principio, estas herramientas permitían a la gente sacar información de Amazon y usarla en sus propios sitios web. Pero luego, con el tiempo, esto se convirtió en algo gigante.
 
